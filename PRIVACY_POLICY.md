@@ -1,6 +1,6 @@
 # Privacy Policy for EmailGPT - AI Email Summarizer
 
-**Last updated:** December 2024  
+**Last updated:** August 2025
 **Version:** 1.0
 
 ## 📧 About EmailGPT
@@ -173,6 +173,6 @@ By using EmailGPT, you consent to:
 
 ---
 
-**For questions about this privacy policy, please contact us at [Your Contact Email]**
+**For questions about this privacy policy, please contact us at [maverick.develops@gmail.com]**
 
 **This policy is hosted on GitHub and publicly accessible for transparency.**
